@@ -1,10 +1,10 @@
-![Me at Ignite 2019](/media/AGatIgnite2019MsSign.jpg)
+![Me at Ignite 2019](https://github.com/get-itips/get-itips/blob/master/media/AGatIgnite2019MsSign.jpg)
 
 # Andrés Gorzelany - @get-itips
 
-Hi! I am Andrés Gorzelany, I am a Computer Science Engineer and I consider myself an IT Senior Consultant.
-I am a @MicrosoftDocs collaborator, I mostly respond to issues that users create against the Microsoft Docs articles, create pull requests and also review them.
-I am Argentinian and I moved to Costa Rica recently.
+Hi! :wave: I am Andrés Gorzelany, I am a Computer Science Engineer and I consider myself an IT Senior Consultant.
+I am a [@MicrosoftDocs](https://github.com/MicrosoftDocs/) collaborator, I mostly respond to issues that users create against the Microsoft Docs articles, create pull requests and also review them.
+I am Argentinian and I moved to Costa Rica  recently.
 
 ## Get in touch
 - Twitter: https://twitter.com/andresgorzelany
