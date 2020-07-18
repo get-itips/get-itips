@@ -1,3 +1,5 @@
+![NT LOGON](https://github.com/get-itips/get-itips/blob/master/media/nt_logon.gif)
+
 # Andrés Gorzelany - @get-itips
 
 Hi! :wave: I am Andrés Gorzelany, I am a Computer Science Engineer and I consider myself an IT Senior Consultant.
